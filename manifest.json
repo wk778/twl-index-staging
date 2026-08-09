@@ -1,8 +1,8 @@
 {
   "schema": "twl.index/1",
   "pepperId": "p1",
-  "seq": 4,
-  "updatedAt": "2026-08-09T21:49:28Z",
+  "seq": 5,
+  "updatedAt": "2026-08-09T22:46:29Z",
   "shardBits": 8,
   "kdf": {
     "alg": "hmac-sha256",
@@ -16,11 +16,11 @@
   ],
   "bans": {
     "keyId": "r1",
-    "commit": "14ec688073b06127a3c9a5b5a8f8e566ad30fef6",
-    "sha256": "ccc7188b9c8073acec90928816e0ff72db11030790b2692a9c46750c245252e1",
+    "commit": "4ed14f927c19b59e51c8df71852290f5b00ae7b9",
+    "sha256": "d3e5ce2f70eec6bc0fbc64aa691f44a198799a87b4703f12f08daa2cd5f621c4",
     "byteLength": 81,
     "count": 0,
     "shardBits": 0
   },
-  "hmac": "aaf6d6dfe44d64154d6c21a5c532d388c95dd1f325ace775d2c57c305f803097"
+  "hmac": "cc2553f8dcc6af3e9d05977c517b45baeff76fed4fdc09da64433ddfccccd18f"
 }
