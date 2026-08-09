@@ -1,8 +1,8 @@
 {
   "schema": "twl.index/1",
   "pepperId": "p1",
-  "seq": 3,
-  "updatedAt": "2026-08-09T21:49:20Z",
+  "seq": 4,
+  "updatedAt": "2026-08-09T21:49:28Z",
   "shardBits": 8,
   "kdf": {
     "alg": "hmac-sha256",
@@ -22,5 +22,5 @@
     "count": 0,
     "shardBits": 0
   },
-  "hmac": "62069d5ff883744cf7f12ca069fe9bced381cd8e92b551ea97baca1401828506"
+  "hmac": "aaf6d6dfe44d64154d6c21a5c532d388c95dd1f325ace775d2c57c305f803097"
 }
