@@ -1,0 +1,26 @@
+{
+  "schema": "twl.index/1",
+  "pepperId": "p1",
+  "seq": 3,
+  "updatedAt": "2026-08-09T21:49:20Z",
+  "shardBits": 8,
+  "kdf": {
+    "alg": "hmac-sha256",
+    "iters": 0,
+    "dkLen": 16
+  },
+  "recordCount": 2,
+  "publishLagSec": 300,
+  "products": [
+    "toolA"
+  ],
+  "bans": {
+    "keyId": "r1",
+    "commit": "14ec688073b06127a3c9a5b5a8f8e566ad30fef6",
+    "sha256": "ccc7188b9c8073acec90928816e0ff72db11030790b2692a9c46750c245252e1",
+    "byteLength": 81,
+    "count": 0,
+    "shardBits": 0
+  },
+  "hmac": "62069d5ff883744cf7f12ca069fe9bced381cd8e92b551ea97baca1401828506"
+}
